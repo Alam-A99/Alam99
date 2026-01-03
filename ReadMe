@@ -1,0 +1,11 @@
+| Kode       | Nama Variabel             | Deskripsi Singkat                                                                                              |
+| ---------- | ------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **PN**     | Pendapatan_Negara         | Total penerimaan negara dalam satu tahun anggaran, mencakup penerimaan perpajakan, PNBP, dan hibah.            |
+| **BN**     | Belanja_Negara            | Total pengeluaran negara dalam satu tahun anggaran, termasuk belanja pemerintah pusat dan transfer ke daerah.  |
+| **DEF**    | Defisit                   | Selisih antara belanja negara dan pendapatan negara (BN − PN). Nilai positif menunjukkan defisit.              |
+| **KESPRI** | Keseimbangan_Primer       | Selisih antara pendapatan negara dan belanja negara di luar pembayaran bunga utang.                            |
+| **RBP**    | Rasio_Belanja_Pendapatan  | Rasio antara belanja negara dan pendapatan negara (BN / PN) sebagai indikator tekanan fiskal.                  |
+| **DRP**    | Defisit_Rasio_Pendapatan  | Rasio defisit terhadap pendapatan negara (DEF / PN) untuk mengukur tingkat ketidakseimbangan fiskal.           |
+| **TXR**    | Tax_Ratio_Proxy           | Proksi rasio pajak yang menggambarkan kapasitas fiskal negara dalam memobilisasi penerimaan pajak.             |
+| **CER**    | Capital_Expenditure_Ratio | Rasio belanja modal terhadap total belanja negara sebagai indikator kualitas belanja publik.                   |
+| **RER**    | Rigid_Expenditure_Ratio   | Rasio belanja kaku (pegawai dan subsidi) terhadap total belanja negara yang mencerminkan fleksibilitas fiskal. |
